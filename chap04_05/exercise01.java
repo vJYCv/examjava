@@ -1,4 +1,4 @@
-package chap01; //확인문제 05
+package chap04_05;
 
 public class exercise01 {
     public static void main(String[] args) {
